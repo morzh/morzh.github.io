@@ -1,0 +1,12 @@
+const imgNum =10;
+let imgs_data = new Array(imgNum);
+imgs_data[0] ={"img": "./imgs/000459.jpg", "vfieldX": "./imgs/000459.vfx.tiff", "vfieldY": "./imgs/000459.vfy.tiff"};
+imgs_data[1] ={"img": "./imgs/000026.jpg", "vfieldX": "./imgs/000026.vfx.tiff", "vfieldY": "./imgs/000026.vfy.tiff"};
+imgs_data[2] ={"img": "./imgs/000013.jpg", "vfieldX": "./imgs/000013.vfx.tiff", "vfieldY": "./imgs/000013.vfy.tiff"};
+imgs_data[3] ={"img": "./imgs/000322.jpg", "vfieldX": "./imgs/000322.vfx.tiff", "vfieldY": "./imgs/000322.vfy.tiff"};
+imgs_data[4] ={"img": "./imgs/13082.jpg", "vfieldX": "./imgs/13082.vfx.tiff", "vfieldY": "./imgs/13082.vfy.tiff"};
+imgs_data[5] ={"img": "./imgs/13002.jpg", "vfieldX": "./imgs/13002.vfx.tiff", "vfieldY": "./imgs/13002.vfy.tiff"};
+imgs_data[6] ={"img": "./imgs/000275.jpg", "vfieldX": "./imgs/000275.vfx.tiff", "vfieldY": "./imgs/000275.vfy.tiff"};
+imgs_data[7] ={"img": "./imgs/13128.jpg", "vfieldX": "./imgs/13128.vfx.tiff", "vfieldY": "./imgs/13128.vfy.tiff"};
+imgs_data[8] ={"img": "./imgs/13031.jpg", "vfieldX": "./imgs/13031.vfx.tiff", "vfieldY": "./imgs/13031.vfy.tiff"};
+imgs_data[9] ={"img": "./imgs/13062.jpg", "vfieldX": "./imgs/13062.vfx.tiff", "vfieldY": "./imgs/13062.vfy.tiff"};
